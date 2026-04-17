@@ -37,7 +37,7 @@
 ### 🔗 Let's Get Connected:
 
 <p>
-  <a href="https://prakash200514.github.io/MY-PORTFOLIO/" target="_blank">
+  <a href="https://prakash200514.github.io/My-Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 <!--   <a href="https://www.linkedin.com/in/sureshdeveloper/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
