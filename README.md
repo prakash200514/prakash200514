@@ -10,7 +10,7 @@
 - 💬 Ask me about: **Tech topics / Tools / Frameworks**
 - 🎮 Gaming Skills: *I write better code than I play games (still working on the high score).*
 - 🎬 Movie & Series Buff: *I binge-watch movies and web series like it’s an Olympic sport.*
-- 💡 Daily Challenge: *I solve at least one LeetCode problem every day to keep my brain sharp.*
+- 💡 Daily Challenge: *I solve at least one HackerRank problem every day to keep my brain sharp.*
 
 
 ---
