@@ -9,7 +9,7 @@
 - 🤝 I’m looking to collaborate on: **Open Source / Freelance Projects**
 - 💬 Ask me about: **Tech topics / Tools / Frameworks**
 - 🎮 Gaming Skills: *I write better code than I play games (still working on the high score).*
-- 🎬 Movie & Series Buff: *I binge-watch movies and web series like it’s an Olympic .*
+- 🎬 Movie & Series Buff: *I binge-watch movies and web series like it’s an Adventure & Horror .*
 - 💡 Daily Challenge: *I solve at least one HackerRank problem every day to keep my brain sharp.*
 
 
