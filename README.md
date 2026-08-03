@@ -51,7 +51,7 @@
   <a href="https://www.linkedin.com/in/mari-muthu-prakash-m-7b6340370/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
 <a href="mailto:marimuthuprakash2005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
 </a>
  <!-- <a href="https://www.instagram.com/mr_suresh_offical_17/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
  
