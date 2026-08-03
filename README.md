@@ -53,7 +53,6 @@
 <a href="mailto:marimuthuprakash2005@gmail.com" style="text-decoration:none;">
   <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Gmail" style="vertical-align:middle;"/>
   <span style="font-family:Arial, sans-serif; font-size:16px; font-weight:bold; color:white; margin-left:8px; vertical-align:middle;">
-    Gmail
   </span>
 </a>
   <a href="https://www.instagram.com/im_._prakash" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
