@@ -74,11 +74,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakash200514&show_icons=true&theme=dark&hide_border=true" height="170"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash200514&layout=compact&theme=dark&hide_border=true" height="170"/>
-</p>
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prakash200514&layout=compact&theme=dark" />
+  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=prakash200514&theme=dark&hide_border=true"/>
 </p>
