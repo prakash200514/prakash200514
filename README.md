@@ -50,7 +50,7 @@
 </a>
   <a href="https://www.linkedin.com/in/mari-muthu-prakash-m-7b6340370/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
-<a href="mailto:marimuthuprakash2005@gmail.com">
+<a href="mailto:marimuthuprakash2005@gmail.com"> Gmail
   <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Gmail"/>
 </a>
 
