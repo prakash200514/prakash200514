@@ -64,7 +64,7 @@
 
 ### ☕ Support Me
 
-<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+<a href="https://www.buymeacoffee.com/prakashm_14" target="_blank">
   <img src="https://img.shields.io/badge/Buy Me a Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
 
