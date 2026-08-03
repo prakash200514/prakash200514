@@ -2,16 +2,16 @@
 
 <h1 align="center">Hello 👋, I'm Prakash </h1>
 
-🧑‍💻 About Me:
+## 🧑‍💻 About Me
 
-- 💼 I’m Completed **B.Sc. Computer Science**
-- 🧠 I’m currently learning: **Technology/Framework**
-- 🤝 I’m looking to collaborate on: **Open Source / Freelance Projects**
-- 💬 Ask me about: **Tech topics / Tools / Frameworks**
-- 🎮 Gaming Skills: *I write better code than I play games (still working on the high score).*
-- 🎬 Movie & Series Buff: *I binge-watch movies and web series like it’s an Adventure & Horror .*
-- 💡 Daily Challenge: *I solve at least one HackerRank problem every day to keep my brain sharp.*
-
+* 🎓 **Completed:** B.Sc. Computer Science
+* 📚 **Currently Pursuing:** M.Sc. Computer Science
+* 🧠 **Currently Learning:** Technology/Framework
+* 🤝 **Looking to Collaborate On:** Open Source & Freelance Projects
+* 💬 **Ask Me About:** Programming, Web Development, and Modern Technologies
+* 🎮 **Gaming Skills:** I write better code than I play games (still working on the high score 😄).
+* 🎬 **Movie & Series Buff:** I enjoy binge-watching adventure and horror movies & web series.
+* 💡 **Daily Challenge:** I solve at least one HackerRank problem every day to keep my problem-solving skills sharp.
 
 ---
 
