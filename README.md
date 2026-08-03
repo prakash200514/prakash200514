@@ -70,22 +70,6 @@
 
 ---
 
-### 🛠️ Language Stats
-
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramkumar6103&layout=compact&theme=dark)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramkumar6103&theme=dark" />
-
----
-
-### Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sureshdev2003)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-
----
 
 
 ### 📊 My GitHub Data:
