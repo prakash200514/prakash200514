@@ -71,12 +71,18 @@
 ---
 
 
-### 📊 My GitHub Data:
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakash200514&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakash200514&theme=dark" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakash200514&theme=dark" alt="GitHub Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prakash200514&show_icons=true&theme=dark&hide_border=true" height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash200514&layout=compact&theme=dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prakash200514&theme=dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prakash200514&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
