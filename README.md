@@ -71,12 +71,12 @@
 ---
 
 
-
 ### 📊 My GitHub Data:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sureshdev2003&show_icons=true&theme=dark" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sureshdev2003&theme=dark"  alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sureshdev2003&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prakash200514&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakash200514&theme=dark" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakash200514&theme=dark" alt="GitHub Profile Summary" />
 </p>
