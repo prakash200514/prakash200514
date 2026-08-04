@@ -77,7 +77,7 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prakash200514&layout=compact&theme=dark" />
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prakash200514&theme=one-dark-pro&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prakash200514&theme=highcontrast&hide_border=true" />
 </p>
 
 <p align="center">
